@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+    <string name="on">Button state turned on</string>
+    <string name="off">Button state turned off</string>
+    <string name="text">Textview is noe visible, after u click button, amazing i noe</string>
+    <string name="switchon">Switch state is on</string>
+    <string name="switchoff">Switch state is off</string>
+    <string name="content">picture orientation</string>
+    <string name="texty">Everything i want</string>
+    <string name="next">Next page</string>
+    <string name="wtf">vali midagi?!</string>
+</resources>
